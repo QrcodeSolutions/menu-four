@@ -228,6 +228,12 @@ header .header-2.header-active{
     color:#fff;
 }
 
+.price{
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
 .dish{
     min-height: 100vh;
 }
